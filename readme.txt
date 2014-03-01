@@ -1,7 +1,7 @@
 Matlab version 3.5 of the model
 Unzip and execute ImageCreator.m in Matlab. Execute one of the examples program...
 
-http://imagetheorymodel.manuamador.fr for more details and more information		
+http://projets.ietr.fr/imagetheorymodel/ for more details and more information		
 
 
 This model represents the work done during my Ph.D. The set of programs is provided under a license or a nondisclosure agreement, and it may be used only in accordance with terms of those agreements. By using this software, you agree to credit the authors: Emmanuel Amador, Philippe Besnier and Christophe Lemoine from the Institut d'Électronique et de Télécommunications de Rennes IETR and the main article describing this model:
